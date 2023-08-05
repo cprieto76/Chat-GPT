@@ -1,5 +1,9 @@
 ## Chat-GPT
 
+(https://github.com/karpathy/nanoGPT)  
+https://www.youtube.com/watch?v=kCc8FmEb1nY&t=150s
+
+
 - **Machine learning models**: algorithms or computational structures that are designed to learn patterns, relationships, and representations from data.
 
 - **Deep learning models**: class of machine learning models that are designed to automatically learn and represent complex patterns and relationships in data by utilizing multiple layers of interconnected processing units, also known as neurons or nodes.
