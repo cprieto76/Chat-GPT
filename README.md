@@ -4,7 +4,10 @@
 
 - **Deep learning models**: class of machine learning models that are designed to automatically learn and represent complex patterns and relationships in data by utilizing multiple layers of interconnected processing units, also known as neurons or nodes.
 
-- **Neuron**: mathematical function that takes one or more inputs, applies weights to these inputs, computes a weighted sum, adds a bias term, and then passes the result through an activation function to produce an output.
+---
+
+## NEURON
+mathematical function that takes one or more inputs, applies weights to these inputs, computes a weighted sum, adds a bias term, and then passes the result through an activation function to produce an output.
 
 ![image](https://github.com/cprieto76/Chat-GPT/assets/115907710/30548509-615c-4ac6-8477-dfe3d72b5619)
 
@@ -41,6 +44,7 @@ Since 0.72 is greater than 0, the step function will output 1. Therefore, the fi
 
 In this simple example, the neuron is making a binary decision based on the weighted sum of inputs and the bias. It activates if the weighted sum plus bias is greater than or equal to zero, and it doesn't activate otherwise.
 
+---
 - **Sequence transduction models**: type of machine learning model used for tasks that involve transforming one sequence of data into another sequence.
 
 - **Convolutional Neural Networks (CNNs)**: class of deep learning models primarily designed for processing and analyzing grid-structured data, such as images and videos.
